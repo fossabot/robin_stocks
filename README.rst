@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmpt3ch%2Frobin_stocks.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmpt3ch%2Frobin_stocks?ref=badge_shield)
+
 .. image:: docs/source/_static/pics/title.PNG
 
 Robin-Stocks API Library
@@ -88,3 +90,7 @@ how to generate API keys for Gemini and how to use both the private and public A
 .. _Robinhood Documentation: Robinhood.rst
 .. _Gemini Documentation: gemini.rst
 .. _TDA Documentation: tda.rst
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmpt3ch%2Frobin_stocks.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmpt3ch%2Frobin_stocks?ref=badge_large)
